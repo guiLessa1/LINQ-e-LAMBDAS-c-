@@ -1,0 +1,7 @@
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\bin\Debug\linq e lambdas.exe.config
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\bin\Debug\linq e lambdas.exe
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\bin\Debug\linq e lambdas.pdb
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\obj\Debug\linq e lambdas.csproj.AssemblyReference.cache
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\obj\Debug\linq e lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\obj\Debug\linq e lambdas.exe
+C:\Users\Lessa\Documents\linq e lambdas\linq e lambdas\obj\Debug\linq e lambdas.pdb
